@@ -1,5 +1,4 @@
 package com.example.danielmaina.firstfirebaseapp;
-//created by daniel maina
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
